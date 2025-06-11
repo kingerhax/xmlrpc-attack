@@ -3,7 +3,7 @@
 # amplification is possible and standard brute force protection will not block
 # the attack.
 #
-# USAGE: ./wp-xml-brute http://target.com/xmlrpc.php passwords.txt username [username2] [username3]...
+# USAGE: ./wp-xml-brute http://target.com/xmlrpc.php passwords.txt nati_055 [username2] [username3]...
 
 
 import time
